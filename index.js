@@ -66,7 +66,7 @@ var defaultStyles = {
   weight: 400,
   fill: "white",
   leading: two.width * 0.08 * 0.8,
-  family: "Angus, Arial, sans-serif",
+  family: "Helvetica, Arial, sans-serif",
   alignment: "center",
   baseline: "baseline",
   margin: {
